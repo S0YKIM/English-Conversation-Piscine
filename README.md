@@ -4,6 +4,7 @@
 ==============
 
 * The aim of this piscine is to make English easy for everyone.
+* We expect you to be able to explain a 42 subject in English when you complete the piscine.
 * This is a 3-week program: 5 days of learning patterns and 2 days of practicing.
 * After you learn the basic expressions through the week, you need to use them in the rush project.
 * Since all the projects are group-based, you will be practicing English conversation with your colleauge.
