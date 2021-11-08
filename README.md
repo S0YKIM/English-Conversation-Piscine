@@ -47,3 +47,10 @@
 * Day 15 : Computer Science & Engineering
 * Rush 02 : Evaluation
 </br>
+
+⭐MADE BY
+==============
+
+['sokim'](https://github.com/S0YKIM)
+['mgo'](https://github.com/refigo)
+['kyujlee']
