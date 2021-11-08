@@ -56,5 +56,5 @@
 </br>
 [mgo](https://github.com/refigo)
 </br>
-[kyujlee](https://github.com/SIE-KYIN/SIE-KYIN)
+[kyujlee](https://github.com/SIE-KYIN)
 </br>
