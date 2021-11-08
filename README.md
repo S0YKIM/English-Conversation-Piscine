@@ -14,7 +14,13 @@
 ⭐CURRICULUM
 ==============
 
-* Week 1
+
+* Day 1: Home, Family, Friends
+* Day 2: Food
+* Day 03 : Self-improvement
+* Day 04 : Health
+* Day 05 : Dream
+
 </br>
 </br>
 </br>
