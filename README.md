@@ -51,9 +51,9 @@
 ⭐MADE BY
 ==============
 
-['sokim'](https://github.com/S0YKIM)
+[sokim](https://github.com/S0YKIM)
 </br>
-['mgo'](https://github.com/refigo)
+[mgo](https://github.com/refigo)
 </br>
-['kyujlee']
+[kyujlee]
 </br>
