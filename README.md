@@ -1,4 +1,4 @@
-# English-Conversation-Piscine
+# English Conversation Piscine
 
 ⭐DESCRIPTIONS
 ==============
@@ -14,13 +14,35 @@
 ⭐CURRICULUM
 ==============
 
+✔️Week 1
+-----
 
-* Day 1: Home, Family, Friends
-* Day 2: Food
+* Day 01: Home, Family, Friends
+* Day 02: Food
 * Day 03 : Self-improvement
 * Day 04 : Health
 * Day 05 : Dream
+* Rush 00: Introduce Yourself
+</br>
 
+✔️Week 2
+-----
+
+* Day 06: Movies, Dramas
+* Day 07: Music
+* Day 08 : Sports
+* Day 09 : Travel
+* Day 10 : Shopping
+* Rush 01 : Bucket List
 </br>
-</br>
+
+✔️Week 3
+-----
+
+* Day 11 : Coffee Break
+* Day 12 : Ask for an understanding
+* Day 13 : Issues
+* Day 14 : Ask for Help
+* Day 15 : Computer Science & Engineering
+* Rush 02 : Evaluation
 </br>
